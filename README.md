@@ -1,4 +1,21 @@
-# Hi, I'm Zach!
+<h1>Hi, I'm Zach! <img align="right" src="https://komarev.com/ghpvc/?username=7thSamurai&color=151515"/></h1>
+
+<p align="center">
+  <a href="https://twitter.com/7th_samurai">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zcol">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.freelancer.com/u/zcollins">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
+  </a>
+  <a href="mailto:zcollins4@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a>
+</p>
+
+<br>
 
 I'm a self-taught software developer and freelance programmer from the United States. 
 I enjoy working with a variety of different fields, but I mostly like working with more low-level stuff, such as Emulation.
@@ -17,14 +34,12 @@ I enjoy working with a variety of different fields, but I mostly like working wi
 
 ## :chart_with_upwards_trend: Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7thSamurai&theme=dark&custom_title=GitHub+Stats&show_icons=true&line_height=27&count_private=true&include_all_commits=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7thSamurai&theme=dark&exclude_repo=github-readme-stats,7thSamurai.github.io&langs_count=3"/>
-</a>
-
-<br>
-<br>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=7thSamurai&color=151515"/></p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=7thSamurai&theme=dark&custom_title=GitHub+Stats&show_icons=true&line_height=27&count_private=true&include_all_commits=true"/>
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7thSamurai&theme=dark&exclude_repo=github-readme-stats,7thSamurai.github.io&langs_count=3"/>
+  </a>
+</p>
