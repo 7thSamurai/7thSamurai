@@ -25,7 +25,7 @@ I enjoy working with a variety of different fields, but I mostly like working wi
 **About Me**
 
 - C/C++ and Python developer.
-- Currently working as a [Freelancer](https://www.freelancer.com/u/zcollins). Need work done? Then [Hire me](https://www.freelancer.com/hireme/zcollins)! (0% commision with this link!)
+- Currently working as a Freelancer. Need work done? Then [Hire me](https://zcollins.net/#contact)!
 - :metal: In my free time I enjoy playing **Thrash Metal** music on the guitar!
 - :jp: I'm also currently learning the **Japanese** language as a hobby in my spare time!
 - :movie_camera: My favorite movie of all time is **"The Seven Samurai"**, hence my username.
