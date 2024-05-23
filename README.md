@@ -10,25 +10,24 @@
   <a href="https://www.freelancer.com/u/zcollins">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
   </a>
-  <a href="mailto:zcollins4@proton.me">
+  <a href="mailto:contact@zcollins.net">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
-I'm a self-taught software developer and freelance programmer from the United States. 
-I enjoy working with a variety of different fields, but I mostly like working with more low-level stuff, such as Emulation.
+I'm a self-taught software developer and independent contractor from the United States. 
+My username comes from one of my favorite movies, [**The Seven Samurai**](https://www.imdb.com/title/tt0047478/)!
 
 <br>
 
 **About Me**
 
-- C/C++ and Python developer.
-- Currently working as a Freelancer. Need work done? Then [Hire me](https://zcollins.net/#contact)!
-- :metal: In my free time I enjoy playing **Thrash Metal** music on the guitar!
-- :jp: I'm also currently learning the **Japanese** language as a hobby in my spare time!
-- :movie_camera: My favorite movie of all time is **"The Seven Samurai"**, hence my username.
+- :computer: C/C++ and Python developer.
+- :coffee: Espresso enthusiast.
+- :metal: Thrash Metal guitarist.
+- :wrench: Hobbyist mechanic.
 
 <br>
 
